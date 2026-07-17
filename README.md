@@ -20,9 +20,6 @@ Although I am at the beginning of my career, I am a fast learner and incredibly 
 - ✉️ How to reach me: [**patiphan.kh2186@gmail.com**](mailto:patiphan.kh2186@gmail.com)
 
 ---
-
-### 🛠️ Tech Stack & Tools
-
 **Frontend Development**<br>
 <p align="left">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" title="HTML5" />
